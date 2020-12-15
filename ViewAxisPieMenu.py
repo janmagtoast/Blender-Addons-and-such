@@ -3,12 +3,12 @@
 #   1. Install the Add-on
 #   2. set up the hotkey
 #
-#   For getting this to work, a hotkey has to be set up.
-#   Under "Keymap", go to "3D View", "3D View (Global)", scroll down and add a new Operator
-#   change the value of the none to "call_menu_pie"
-#   and the name to "mesh.viewpie"
+#       For getting this to work, a hotkey has to be set up.
+#       Under "Keymap", go to "3D View", "3D View (Global)", scroll down and add a new Operator
+#       change the value of the none to "call_menu_pie"
+#       and the name to "mesh.viewpie"
 #
-#hf using <3
+#   hf using <3
 
 
 
